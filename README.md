@@ -1,4 +1,4 @@
-# PRODIGY_ST_04
+# PRODIGY_ST_05
 Automatic Checkout Process on a e-commerce platform including adding items to cart, fill form for checkout , etc..
 **Project Overview**
 
